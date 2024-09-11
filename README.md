@@ -24,4 +24,4 @@ The quiz is static and does not offer customization options.
 The questions are relatively simple and may not be suitable for advanced users.
 
 **NOTE**
-for making this code into better version you can customise according to your requirements by making smaill changes in the code. 
+for making this code into better version you can customise according to your requirements by making small changes in the code. 
